@@ -1,7 +1,5 @@
 # CRM Coursework
 
-## How to run in Google Colab
-
 1. Download CRM_Final_Final.zip from this repository. Leave it zipped.
 2. Open CRM_Final_Notebook.ipynb in Google Colab.
 3. Run the first code cell under “Open the project files”.
